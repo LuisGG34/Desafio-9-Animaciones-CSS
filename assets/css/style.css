@@ -375,7 +375,7 @@ a {
         padding: 10px;
         background-color: black;
         color: #ffa500;
-        position: fixed;
+        position: sticky;
         bottom: 0;
         width: 100%;
         font-size: medium;
